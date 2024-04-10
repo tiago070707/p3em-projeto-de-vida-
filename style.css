@@ -1,12 +1,29 @@
 :root{
-    --cor-de-fundo: #09e488; 
-    --azul: #337ccf;
-    --branco: #ffffff;
+    --cor-de-fundo: #e98f46; 
+    --azul: #000000;
+    --branco: rgb(56, 22, 2);
 
 
 }
 
 body {
     background-color: var(--cor-de-fundo);
-    color: #337ccf;
+    color: #000000;
+} 
+
+.conteudo-principal{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items:center;
+ max-width: 1200px;
+ width: 100%;
+ margin:0 auto;
+
 }
+
+.titulo-principal{
+    text-align: 
+    
+}
+    
